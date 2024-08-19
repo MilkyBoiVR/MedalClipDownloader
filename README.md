@@ -13,10 +13,12 @@ Library is the best way to download the clips using their buttons through image 
 ## 2. Preload
 Scroll down to the bottom of your medal clips, this helps preload the buttons to allow link copying.
 ![2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8ecf6e39-aef4-4155-a869-f6d5e54febfd)
-## 3. Downloading
+## 3. Downloading (DO NOT MOVE MOUSE)
 Select where you want the clips to be downloaded to using "Browse" and start the tool using "Start Download". 
 > [!WARNING]
-> If the tool is above a "Copy Link" button, the tool will skip that specific clip.
+> 1. If the tool is above a "Copy Link" button, the tool will skip that specific clip.
+>
+> 2. If you move your mouse during "Copy Link" issues may occur.
 
 ![3-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/44e7c8ce-d7e0-480a-b2a4-1b3d425fcad2)
 ## 4. View downloaded clips
@@ -26,4 +28,5 @@ Click "View Videos" and all *currently* downloaded clips will be shown.
 # Information
 - Mass downloads on Medal has been a wanted feature for a very long time. But with no actual evidence of such a feature being worked on by the Medal developers, I've decided to push out this tool for anyone to use.
 - With the way the tool is structured, changes of the Medal.TV UI may cause the tool to break and cause issues, or simply not work at all. The only way to maintain this is through frequent updates. I do not have the time or effort to keep on updating this project.
-- To keep this project alive, I will allow people to commit changes and I will personally review all requests made on this page. 
+- To keep this project alive, I will allow people to commit changes and I will personally review all requests made on this page.
+- If there are any issues then contact @MilkyBoiVR on Discord.
