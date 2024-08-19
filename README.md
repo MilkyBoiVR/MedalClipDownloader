@@ -1,7 +1,7 @@
 # MedalDownloader
 Download all your clips from Medal.TV while also allowing you to select specific visibility and game clips.
 # Basic Installation
-1. Head over to [Releases](github.com/MilkyBoiVR/MedalDownloader/releases/latest) and download `MedalDownloader.exe`.
+Head over to [Releases](github.com/MilkyBoiVR/MedalDownloader/releases/latest) and download `MedalDownloader.exe`.
 # Developer Installation
 1. Download latest version of [Python](https://www.python.org/downloads/) (Ensure Python is added to PATH).
 2. Run `pip install customtkinter opencv-python pyautogui numpy pyperclip requests beautifulsoup4`
