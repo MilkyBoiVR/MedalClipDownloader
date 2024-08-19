@@ -30,4 +30,5 @@ Click "View Videos" and all *currently* downloaded clips will be shown.
 - Mass downloads on Medal has been a wanted feature for a very long time. But with no actual evidence of such a feature being worked on by the Medal developers, I've decided to push out this tool for anyone to use.
 - With the way the tool is structured, changes of the Medal.TV UI may cause the tool to break and cause issues, or simply not work at all. The only way to maintain this is through frequent updates. I do not have the time or effort to keep on updating this project.
 - To keep this project alive, I will allow people to commit changes and I will personally review all requests made on this page.
+- This project is ran completely from automation, to put this in basic words, it's basically something that any random user can do, but just makes it faster and easier, there are absolutely no issues with this project and is completely legal. 
 - If there are any issues then contact @MilkyBoiVR on Discord.
