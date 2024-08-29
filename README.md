@@ -1,4 +1,4 @@
-# MedalDownloader
+# MedalClipDownloader
 An automation script that downloads all your clips from Medal.TV while also allowing you to select specific visibility and game clips.
 # Basic Installation
 Head over to [Releases](https://github.com/MilkyBoiVR/MedalDownloader/releases) and download `MedalDownloader.zip`
