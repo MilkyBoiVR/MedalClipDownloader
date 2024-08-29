@@ -19,7 +19,7 @@ Select where you want the clips to be downloaded to using "Browse" and start the
 > [!WARNING]
 > 1. If the tool is above a "Copy Link" button, the tool will skip that specific clip.
 >
-> 2. If you move your mouse during "Copy Link" issues may occur.
+> 2. If you move your mouse during "Copy Link" process, issues may occur.
 
 ![3-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/44e7c8ce-d7e0-480a-b2a4-1b3d425fcad2)
 ## 4. View downloaded clips
